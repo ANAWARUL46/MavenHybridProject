@@ -1,0 +1,11 @@
+WebSite=https://www.facebook.com/
+FN=firstname
+LS=lastname
+EM=reg_email__
+AEG=reg_email_confirmation__
+PW=reg_passwd__
+MONTH=birthday_month
+DAY=birthday_day
+YEAR=birthday_year
+SEX=.//*[@id='u_0_u']/span[1]/label
+CREATE=.//*[@id='u_0_w']
